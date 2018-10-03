@@ -1,0 +1,50 @@
+
+/* Tabela */
+
+table, td, th, tfoot {border:solid 1px #000; padding:5px;}
+
+#title {color: white; background-color: green;}
+#total {color: white; background-color:green;}
+#total2 {color: white; background-color: yellow;}
+#ano{color: #ffff33;}
+#pais{color: white;}
+#numero{color: blue;}
+#volume{color: white;}
+#arvores{color: #ff99ff;}
+#valor{color: black;}
+#td1 {background-color: #b3ffb3;}
+#td2 {background-color: #b3ffb3;}
+#td3 {background-color: #b3ffb3;}
+#td4 {background-color: #b3ffb3;}
+#td5 {background-color: #b3ffb3;}
+#td6 {background-color: #b3ffb3;}
+#td7 {background-color: #ff99ff}
+#td8 {background-color: #ff99ff}
+#td9 {background-color: #ff99ff}
+#td10 {background-color: #ff99ff}
+#td11 {background-color: #ff99ff}
+#td12 {background-color: #ff99ff}
+#td13 {background-color: #b3ffb3;}
+#td14 {background-color: #b3ffb3;}
+#td15 {background-color: #b3ffb3;}
+#td16 {background-color: #b3ffb3;}
+#td17 {background-color: #b3ffb3;}
+#td18 {background-color: #b3ffb3;}
+#td19 {background-color: #ff99ff}
+#td20 {background-color: #ff99ff}
+#td21 {background-color: #ff99ff}
+#td22 {background-color: #ff99ff}
+#td23 {background-color: #ff99ff}
+#td24 {background-color: #ff99ff}
+th {background-color: #4dff4d;}
+
+
+/* Fim tabela */
+
+#table{
+
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+
+}

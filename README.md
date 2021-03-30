@@ -1,2 +1,2 @@
 # treetorah-atividade
-Atividade elaborada para o trabalho do segundo semestre
+Atividade desenvolvida para o trabalho de segundo semestre.
